@@ -1,3 +1,5 @@
+# **LeetCode Solutions**
+
 LeetCode Solutions
 Welcome to my LeetCode solutions repository! Here, you'll find my solutions to various LeetCode problems. I've set out on a journey to solve 500 LeetCode problems, and I'm excited to share my progress with you.
 
