@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode solutions repository! Here, you'll find my solutions to various LeetCode problems. I've set out on a journey to solve 500 LeetCode problems, and I'm excited to share my progress with you.
 
-![Progress](https://img.shields.io/badge/Progress-12/500-blue)
+![Progress](https://img.shields.io/badge/Progress-13/500-blue)
 
 What is LeetCode?
 LeetCode is a platform that hosts coding challenges that can help you improve your coding skills. It covers a wide range of topics such as algorithms, data structures, and problem-solving techniques.
